@@ -14,5 +14,7 @@ Ready to redefine your Minecraft experience? **Wander's Reach** brings t
 
 ## Support
 
+*Please note, This modpack is still in development.**
+
 For support join our [Discord](https://mee6.xyz/i/Rkv8YkaK5a) server.
 
