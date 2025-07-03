@@ -1,5 +1,5 @@
 
-![Logo]("logos\mcbackground.jpg")
+![Logo](".github/logos/mcbackground.jpg")
 
 # Wander's Reach
 
