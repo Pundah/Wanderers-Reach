@@ -3,7 +3,7 @@
 
 # Wander's Reach
 
-Ready to redefine your Minecraft experience? **Wander's Reach** brings together a wide selection of popular tech mods, offering you opportunities for automation, resource generation, and industrial expansion. But it's not just about tech! We have also integrated numerous quality-of-life mods to enhance gameplay. 
+Ready to redefine your Minecraft experience? **Wander's Reach** brings together a wide selection of popular tech mods, offering you opportunities for automation, resource generation, and industrial expansion. But it's not just about tech! We have also integrated numerous quality-of-life mods to enhance gameplay. 
 
 ## Features
 
