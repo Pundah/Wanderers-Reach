@@ -43,7 +43,7 @@
 #Configs for ding to trigger when the world loads after connecting to a server
 [world]
 	#Play sound when the world loads after connecting to a server. Requires game to be restarted when changing this option.
-	playOnWorld = false
+	playOnWorld = true
 	#Resource Location based name of the sound file to play when the world finishes loading (after connecting to a server).
 	#
 	#Look at the "name" config for more details.

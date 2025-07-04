@@ -5,7 +5,7 @@
   "c:ingots/tin": "mekanism:ingot_tin",
   "c:ingots/iridium": "null",
   "c:ingots/zinc": "null",
-  "c:gems/sapphire": "null",
+  "c:gems/sapphire": "iceandfire:sapphire_gem",
   "c:ingots/bronze": "mekanism:ingot_bronze",
   "c:ingots/invar": "null",
   "c:gems/ruby": "null",

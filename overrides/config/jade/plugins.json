@@ -84,6 +84,13 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "iceandfire": {
+    "multipart": true,
+    "dragon": true
+  },
+  "balm": {
+    "jade": true
+  },
   "mysticalextendedtier": {
     "infused_farmland": true
   },
@@ -116,6 +123,10 @@
   },
   "pipez": {
     "pipe": true
+  },
+  "twilightforest": {
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
   },
   "supplementaries": {
     "hat_stand": true
