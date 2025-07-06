@@ -106,6 +106,9 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "projecte": {
+    "emc_provider": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
@@ -130,6 +133,9 @@
   },
   "supplementaries": {
     "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "mysticalagriculture": {
     "infused_farmland": true,

@@ -95,6 +95,7 @@
   "mysticalagriculture:infused_farmland": null,
   "mysticalextendedtier:infused_farmland": null,
   "pipez:pipe": null,
+  "projecte:emc_provider": null,
   "securitycraft:block_info": null,
   "securitycraft:entity_info": null,
   "supplementaries:hat_stand": null,
@@ -102,5 +103,6 @@
   "supplementaries:safe": null,
   "tombstone:graves": null,
   "twilightforest:chiseled_bookshelf_spawner": null,
-  "twilightforest:quest_ram_wool": null
+  "twilightforest:quest_ram_wool": null,
+  "waystones:waystone": null
 }
