@@ -8,7 +8,7 @@ NEOFORGE - 21.1.187
 
 ## **-=Modification Notes=-**
 
-(*) 
+(*) Moved Menu logo to center.
 
 ## **Additions**
 
