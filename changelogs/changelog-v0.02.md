@@ -14,6 +14,7 @@ NEOFORGE - 21.1.187
 (*) Minecolonies - Workers will work in the rain.
 (*) Dragon head will spawn on enderdragon death.
 (*) Pam's Harvestcraft - Grass drops seeds
+(*) Twilight Forest - Made multiplayer bosses harder.
 
 ## **Additions**
 
