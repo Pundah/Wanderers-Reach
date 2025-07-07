@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "Wanderer's Reach"
 	#The version of the modpack
-	modpackVersion = "0.01"
+	modpackVersion = "0.02"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

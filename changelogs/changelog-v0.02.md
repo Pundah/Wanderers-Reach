@@ -8,8 +8,9 @@ NEOFORGE - 21.1.187
 
 ## **-=Modification Notes=-**
 
+(*) BCC Modpack updated to V:0.02.
+(*) Uploaded beginning files of questlog.
 (*) Moved Menu logo to center.
-
 ## **Additions**
 
 (+) Waystones
@@ -38,4 +39,4 @@ NEOFORGE - 21.1.187
 
 ## **REMOVALS**
 
-(-) 
+(-)
