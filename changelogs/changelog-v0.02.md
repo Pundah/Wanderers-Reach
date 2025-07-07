@@ -11,6 +11,10 @@ NEOFORGE - 21.1.187
 (*) BCC Modpack updated to V:0.02.
 (*) Uploaded beginning files of questlog.
 (*) Moved Menu logo to center.
+(*) Minecolonies - Workers will work in the rain.
+(*) Dragon head will spawn on enderdragon death.
+(*) Pam's Harvestcraft - Grass drops seeds
+
 ## **Additions**
 
 (+) Waystones
