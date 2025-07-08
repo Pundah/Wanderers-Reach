@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tips_and_tricks"
+	group: ""
+	id: "2C129BD725321F0A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "054D235878E0E544"
+		tasks: [{
+			id: "589AD4AC73C9A546"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

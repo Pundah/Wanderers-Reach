@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basic_storage"
+	group: "59B459829D622D5B"
+	id: "1E4D8A196B17ACA6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

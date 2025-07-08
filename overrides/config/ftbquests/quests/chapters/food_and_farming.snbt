@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "food_and_farming"
+	group: "0E3D445397780794"
+	id: "41D6FB2C5C7DA127"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

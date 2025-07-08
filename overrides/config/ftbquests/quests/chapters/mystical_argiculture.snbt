@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mystical_argiculture"
+	group: "0E3D445397780794"
+	id: "54F2C09EF45F8AD7"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

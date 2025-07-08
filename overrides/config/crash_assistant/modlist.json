@@ -129,6 +129,11 @@
     "modId": "artifacts",
     "version": "13.0.6"
   },
+  "autotools-1.21.1-neoforge-3.1.0.jar": {
+    "jarName": "autotools-1.21.1-neoforge-3.1.0.jar",
+    "modId": "autotools",
+    "version": "3.1"
+  },
   "balm-neoforge-1.21.1-21.0.46.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.46.jar",
     "modId": "balm",
@@ -249,10 +254,30 @@
     "modId": "cucumber",
     "version": "8.0.13"
   },
+  "cupboard-1.21-2.9.jar": {
+    "jarName": "cupboard-1.21-2.9.jar",
+    "modId": "cupboard",
+    "version": "2.9"
+  },
   "curios-neoforge-9.5.1+1.21.1.jar": {
     "jarName": "curios-neoforge-9.5.1+1.21.1.jar",
     "modId": "curios",
     "version": "9.5.1+1.21.1"
+  },
+  "cursedcomponents-0.1.0.jar": {
+    "jarName": "cursedcomponents-0.1.0.jar",
+    "modId": "cursedcomponents",
+    "version": "0.1.0"
+  },
+  "cursedearthreturns-1.21.1-neoforge-1.6.jar": {
+    "jarName": "cursedearthreturns-1.21.1-neoforge-1.6.jar",
+    "modId": "cursedearth",
+    "version": "1.6"
+  },
+  "cyclopscore-1.21.1-neoforge-1.26.1.jar": {
+    "jarName": "cyclopscore-1.21.1-neoforge-1.26.1.jar",
+    "modId": "cyclopscore",
+    "version": "1.26.1"
   },
   "DimStorage-1.21-9.0.2.jar": {
     "jarName": "DimStorage-1.21-9.0.2.jar",
@@ -319,6 +344,11 @@
     "modId": "ends_delight",
     "version": "2.5.1+neoforge.1.21.1"
   },
+  "evilcraft-1.21.1-neoforge-1.2.72.jar": {
+    "jarName": "evilcraft-1.21.1-neoforge-1.2.72.jar",
+    "modId": "evilcraft",
+    "version": "1.2.72"
+  },
   "ExtendedAE-1.21-2.2.15-neoforge.jar": {
     "jarName": "ExtendedAE-1.21-2.2.15-neoforge.jar",
     "modId": "extendedae",
@@ -348,6 +378,11 @@
     "jarName": "farmingforblockheads-neoforge-1.21.1-21.1.8.jar",
     "modId": "farmingforblockheads",
     "version": "21.1.8"
+  },
+  "farsight-1.21-3.8.jar": {
+    "jarName": "farsight-1.21-3.8.jar",
+    "modId": "farsight_view",
+    "version": "3.8"
   },
   "FluxNetworks-1.21.1-8.0.0.jar": {
     "jarName": "FluxNetworks-1.21.1-8.0.0.jar",
@@ -404,10 +439,10 @@
     "modId": "ftbteams",
     "version": "2101.1.2"
   },
-  "ftb-ultimine-neoforge-2101.1.3.jar": {
-    "jarName": "ftb-ultimine-neoforge-2101.1.3.jar",
+  "ftb-ultimine-neoforge-2101.1.4.jar": {
+    "jarName": "ftb-ultimine-neoforge-2101.1.4.jar",
     "modId": "ftbultimine",
-    "version": "2101.1.3"
+    "version": "2101.1.4"
   },
   "ftb-xmod-compat-neoforge-21.1.3.jar": {
     "jarName": "ftb-xmod-compat-neoforge-21.1.3.jar",
@@ -423,6 +458,11 @@
     "jarName": "geckolib-neoforge-1.21.1-4.7.6.jar",
     "modId": "geckolib",
     "version": "4.7.6"
+  },
+  "geneticsresequenced-1.21.1-1.5.4.jar": {
+    "jarName": "geneticsresequenced-1.21.1-1.5.4.jar",
+    "modId": "geneticsresequenced",
+    "version": "1.5.4"
   },
   "Glodium-1.21-2.2-neoforge.jar": {
     "jarName": "Glodium-1.21-2.2-neoforge.jar",
@@ -469,10 +509,15 @@
     "modId": "itemcollectors",
     "version": "1.1.10"
   },
-  "Jade-1.21.1-NeoForge-15.10.1.jar": {
-    "jarName": "Jade-1.21.1-NeoForge-15.10.1.jar",
+  "Jade-1.21.1-NeoForge-15.10.2.jar": {
+    "jarName": "Jade-1.21.1-NeoForge-15.10.2.jar",
     "modId": "jade",
-    "version": "15.10.1+neoforge"
+    "version": "15.10.2+neoforge"
+  },
+  "jamd-neo-21.1.1+mc1.21.1.jar": {
+    "jarName": "jamd-neo-21.1.1+mc1.21.1.jar",
+    "modId": "jamd",
+    "version": "21.1.1"
   },
   "jei-1.21.1-neoforge-19.21.0.247.jar": {
     "jarName": "jei-1.21.1-neoforge-19.21.0.247.jar",
@@ -546,6 +591,11 @@
     "jarName": "Mekanism-1.21.1-10.7.14.79.jar",
     "modId": "mekanism",
     "version": "10.7.14"
+  },
+  "mekanism_turrets-2.1.4.jar": {
+    "jarName": "mekanism_turrets-2.1.4.jar",
+    "modId": "mekanism_turrets",
+    "version": "2.1.4"
   },
   "MekanismAdditions-1.21.1-10.7.14.79.jar": {
     "jarName": "MekanismAdditions-1.21.1-10.7.14.79.jar",
@@ -642,6 +692,11 @@
     "modId": "octolib",
     "version": "0.5.0.1"
   },
+  "OreBerries-Replanted-1.21.1-0.9.7.jar": {
+    "jarName": "OreBerries-Replanted-1.21.1-0.9.7.jar",
+    "modId": "oreberriesreplanted",
+    "version": "0.9.7"
+  },
   "PackMenu-1.21-7.0.2.jar": {
     "jarName": "PackMenu-1.21-7.0.2.jar",
     "modId": "packmenu",
@@ -682,6 +737,16 @@
     "modId": "placebo",
     "version": "9.8.1"
   },
+  "pocketstorage-1.2.4+1.21.1-b40.jar": {
+    "jarName": "pocketstorage-1.2.4+1.21.1-b40.jar",
+    "modId": "pocketstorage",
+    "version": "1.2.4+1.21.1-b40"
+  },
+  "potentials-neoforge-1.21-0.7.0.jar": {
+    "jarName": "potentials-neoforge-1.21-0.7.0.jar",
+    "modId": "potentials",
+    "version": "0.7.0"
+  },
   "Powah-6.2.4.jar": {
     "jarName": "Powah-6.2.4.jar",
     "modId": "powah",
@@ -696,6 +761,11 @@
     "jarName": "Prism-1.21.1-neoforge-1.0.11.jar",
     "modId": "prism",
     "version": "1.0.11"
+  },
+  "productivebees-1.21.1-13.7.4.jar": {
+    "jarName": "productivebees-1.21.1-13.7.4.jar",
+    "modId": "productivebees",
+    "version": "1.21.1-13.7.4"
   },
   "ProjectE-1.21.1-PE1.1.0.jar": {
     "jarName": "ProjectE-1.21.1-PE1.1.0.jar",
@@ -752,6 +822,11 @@
     "modId": "showcaseitem",
     "version": "1.21.1-1.1.0"
   },
+  "simple_weather-1.0.13.jar": {
+    "jarName": "simple_weather-1.0.13.jar",
+    "modId": "simple_weather",
+    "version": "1.0.13"
+  },
   "SimpleBackups-1.21-4.0.16.jar": {
     "jarName": "SimpleBackups-1.21-4.0.16.jar",
     "modId": "simplebackups",
@@ -777,6 +852,11 @@
     "modId": "spark",
     "version": "1.10.124"
   },
+  "stellaris-1.21-neoforge-1.3.19.jar": {
+    "jarName": "stellaris-1.21-neoforge-1.3.19.jar",
+    "modId": "stellaris",
+    "version": "1.3.19"
+  },
   "structurize-1.0.780-1.21.1-snapshot.jar": {
     "jarName": "structurize-1.0.780-1.21.1-snapshot.jar",
     "modId": "structurize",
@@ -797,15 +877,20 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.3.3-neoforge.jar": {
-    "jarName": "supplementaries-1.21-3.3.3-neoforge.jar",
+  "supplementaries-1.21-3.3.4-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.3.4-neoforge.jar",
     "modId": "supplementaries",
-    "version": "1.21-3.3.3"
+    "version": "1.21-3.3.4"
   },
   "suppsquared-1.21-1.2.8-neoforge.jar": {
     "jarName": "suppsquared-1.21-1.2.8-neoforge.jar",
     "modId": "suppsquared",
     "version": "1.21-1.2.8"
+  },
+  "swplanets-1.21-neoforge-1.0.1.jar": {
+    "jarName": "swplanets-1.21-neoforge-1.0.1.jar",
+    "modId": "swplanets",
+    "version": "1.0.1"
   },
   "t_and_t-neoforge-fabric-1.13.2.jar": {
     "jarName": "t_and_t-neoforge-fabric-1.13.2.jar",
@@ -817,10 +902,10 @@
     "modId": "undergarden",
     "version": "0.9.3"
   },
-  "tombstone-neoforge-1.21.1-9.4.1.jar": {
-    "jarName": "tombstone-neoforge-1.21.1-9.4.1.jar",
+  "tombstone-neoforge-1.21.1-9.4.2.jar": {
+    "jarName": "tombstone-neoforge-1.21.1-9.4.2.jar",
     "modId": "tombstone",
-    "version": "9.4.1"
+    "version": "9.4.2"
   },
   "torchmaster-neoforge-1.21.1-21.1.5-beta.jar": {
     "jarName": "torchmaster-neoforge-1.21.1-21.1.5-beta.jar",
@@ -836,6 +921,11 @@
     "jarName": "trashcans-1.0.18c-neoforge-mc1.21.jar",
     "modId": "trashcans",
     "version": "1.0.18+c"
+  },
+  "trenzalore-neo-6.1.1+mc1.21.1.jar": {
+    "jarName": "trenzalore-neo-6.1.1+mc1.21.1.jar",
+    "modId": "trenzalore",
+    "version": "6.1.1"
   },
   "twilightdelight-3.0.5.jar": {
     "jarName": "twilightdelight-3.0.5.jar",
@@ -871,6 +961,16 @@
     "jarName": "waystones-neoforge-1.21.1-21.1.19.jar",
     "modId": "waystones",
     "version": "21.1.19"
+  },
+  "wirelesschargers-1.0.9a-neoforge-mc1.21.jar": {
+    "jarName": "wirelesschargers-1.0.9a-neoforge-mc1.21.jar",
+    "modId": "wirelesschargers",
+    "version": "1.0.9+a"
+  },
+  "yeetusexperimentus-neoforge-87.0.0.jar": {
+    "jarName": "yeetusexperimentus-neoforge-87.0.0.jar",
+    "modId": "yeetusexperimentus",
+    "version": "87.0.0"
   },
   "yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar": {
     "jarName": "yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar",

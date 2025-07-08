@@ -1,0 +1,118 @@
+{
+	id: "2AC7650E13B7D30B"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 32
+			id: "0A2DFE0C8E33AA18"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 16
+			id: "2C92F6C45E2E8852"
+			item: {
+				count: 1
+				id: "minecraft:glass"
+			}
+		}
+		{
+			count: 8
+			id: "03C0A43A9C812A06"
+			item: {
+				count: 1
+				id: "minecraft:sand"
+			}
+		}
+		{
+			count: 8
+			id: "3DAE46DCFF4B3679"
+			item: {
+				count: 1
+				id: "minecraft:gravel"
+			}
+		}
+		{
+			count: 16
+			id: "17527D8F6E065AAE"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 8
+			id: "6911D00057FD9B5A"
+			item: {
+				count: 1
+				id: "immersiveengineering:seed"
+			}
+		}
+		{
+			count: 4
+			id: "37090F378A5C0AB9"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 8
+			id: "601EBC50DEC32ED0"
+			item: {
+				count: 1
+				id: "minecraft:beef"
+			}
+		}
+		{
+			count: 4
+			id: "7C6C68C7B231A03D"
+			item: {
+				count: 1
+				id: "minecraft:sticky_piston"
+			}
+		}
+		{
+			count: 8
+			id: "4194F8C3F49D87B0"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+		}
+		{ id: "19AF4E6646D7E715", item: { count: 1, id: "minecraft:name_tag" } }
+		{
+			count: 16
+			id: "32A3E9FBB96D64B0"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{ id: "6F906A8CD00C11E6", item: { count: 1, id: "minecraft:ocelot_spawn_egg" } }
+		{ id: "05E74F10472E5042", item: { count: 1, id: "minecraft:horse_spawn_egg" } }
+		{ id: "6116A59A12411814", item: { count: 1, id: "minecraft:wolf_spawn_egg" } }
+		{
+			count: 16
+			id: "5041D5CC06C00263"
+			item: {
+				count: 1
+				id: "powah:energy_cable_basic"
+			}
+		}
+		{
+			count: 8
+			id: "41F8D125D73CCD40"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_essence"
+			}
+		}
+		{ id: "4E9A22EBE4CF81ED", item: { count: 1, id: "mekanism:basic_energy_cube" } }
+		{ id: "0AA10053F23CC0C9", item: { count: 1, id: "mekanismtools:bronze_paxel" } }
+	]
+	use_title: true
+}

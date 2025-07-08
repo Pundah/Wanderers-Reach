@@ -35,6 +35,21 @@ NEOFORGE - 21.1.187
 (+) My Nether's Delight
 (+) Twilight's Flavors & Delight
 (+) Fuel Goes Here
+(+) autotools
+(+) Mekanism Turrets & Fences
+(+) Genetics Resequenced
+(+) Evilcraft
+(+) Farsight
+(+) Cursed Earth Returns
+(+) Pocket Storage
+(+) Oreberries Replanted
+(+) Simple Weather
+(+) Stellaris
+(+) Wireless Chargers
+(+) JAMD - Just another Mining Dimension
+(+) Just another Quarry Mod
+(+) Yettus Experimentus
+(+) Productive Bees
 
 ## **UPDATED**
 
