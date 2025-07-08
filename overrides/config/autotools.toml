@@ -1,0 +1,51 @@
+[AutoTools]
+	#AutoTools will always be active and try to get you the best tool. Can be toggled with the set key.
+	toggle = true
+	#Disables AutoTools in creative if toggle is enabled
+	disableCreative = true
+	#Keeps the selected slot when swapping to a new tool instead of using the vanilla mechanics
+	keepSlot = true
+	#AutoTools will prefer the tool already in your hotbar if multiple tools have the same mining speed, regardless their durability
+	preferHotbarTool = true
+	#AutoTools will prefer the tool with the lower durability, instead of the higher one, if they have the same mining speed
+	preferLowDurability = true
+	#Autotools will try to always get a tool with Fortune for gravel and leaves
+	alwaysPreferFortune = true
+	# 
+	#AutoTools only tries to get a new tool if it is needed to break the block
+	onlySwitchIfNecessary = true
+	#AutoTools will switch back to you previous tool or item you had in your hand before breaking the block
+	switchBack = true
+	#Displays the weapons Dps when hovering over it.
+	showDPS = true
+	#AutoTools will change to the tool with the most DPS when looking at an entity.
+	changeForEntities = true
+	#AutoTools won't change to a better weapon(e.g. a sword) when holding an axe
+	keepAxe = false
+	# 
+	#Autotools additionally will prefer Silk Touch even if it isn't required to mine a block: never, always, ores, except_ores
+	#Allowed Values: never, always, ores, except_ores
+	preferSilkTouch = "except_ores"
+	# 
+	#AutoTools won't do anything if the currently selected slot is in ignoredSlots
+	ignoredSlots = []
+	#AutoTools only puts tools in these slots:
+	targetSlots = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+	#If < 1: Seen as a percentage: Tools below minDurability won't be selected\Else: Seen as durability: tools will be selected until at minDurability (e.g. set to 1 to never break a tool)
+	minDurability = 0.0
+	#Prevents mining when going under minDurability
+	durabilityCheck = true
+	# 
+	#AutoTools will only work and swap to the best tool if you are already holding: always, tool, no_tool
+	#Allowed Values: always, tool, no_tool
+	enabled = "always"
+	#Add custom block-tool-configurations in JSON format
+	#e.g. customTools={\"minecraft:block_id\":\"minecraft:tool_id\"} or customTools={\"minecraft:block_id\":[\"minecraft:tool_id_1\", \"minecraft:tool_id_2\"]}
+	#When adding multiple tools, the first one has the highest priority
+	#There are also pre-define lists for tool groups: autotools:pickaxe, autotools:axe, autotools:shovel, autotools.hoe, autotools:sword
+	#Use "autotools:disabled" to disable AutoTools on a certain block
+	#Also works for entities: "minecraft:entity_id":"minecraft:tool_id
+	customTools = "{}"
+	#Adds an experimental 1 Tick = 50ms delay if toggle is enabled before breaking a block after a tool switch.
+	#Enable this if you are experiencing Desyncs like Ghost-Blocks when instant mining.
+	experimentalBreakDelay = false

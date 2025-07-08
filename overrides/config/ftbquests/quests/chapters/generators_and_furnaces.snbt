@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "generators_and_furnaces"
+	group: "346B4860A25FA4EE"
+	id: "2A67BCD4D87D8323"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,1070 @@
+{
+	autofocus_id: "42F37A4CD61B3AB5"
+	default_hide_dependency_lines: false
+	default_min_width: 1
+	default_quest_shape: ""
+	filename: "kill_log"
+	group: ""
+	icon: {
+		id: "minecolonies:chiefsword"
+	}
+	id: "1862E4CCD5D7DBBC"
+	images: [
+		{
+			height: 1.0d
+			image: "relics:textures/gui/description/icons/fate_beacon/overworld.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/map/decorations/nether_portal.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "enderio:block/vacuum_portal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4FB2382FE56CDC01"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "37E4185B8522C26D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4FB2382FE56CDC01"]
+			id: "5EB6760E5FA6AE7B"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "58698CCBB76BB3E2"
+				type: "kill"
+				value: 10L
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5EB6760E5FA6AE7B"]
+			id: "1324DBE6FF6EE1C8"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5888067E50DDB01E"
+				type: "kill"
+				value: 50L
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1324DBE6FF6EE1C8"]
+			id: "6CFD48429576F137"
+			shape: "hexagon"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5972F07E013622BD"
+				type: "kill"
+				value: 100L
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "0B14C733F134B827"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "5210F12C12A1F61B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0B14C733F134B827"]
+			id: "4B451AFEC3253795"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "34524A7027DE6DDD"
+				type: "kill"
+				value: 10L
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4B451AFEC3253795"]
+			id: "4D78AD7D2598AE0E"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "34CAD5430B564EE5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4D78AD7D2598AE0E"]
+			id: "6ABABDB2F2527F57"
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "2E546385A9EC7EE0"
+				type: "kill"
+				value: 100L
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "1230A60E88176CD5"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "6CCBF15E8B18A712"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1230A60E88176CD5"]
+			id: "2BC9B3D4E47F3BBD"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "3A17FB013C88D18C"
+				type: "kill"
+				value: 10L
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2BC9B3D4E47F3BBD"]
+			id: "155C6C8E98A03DDE"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "491AFA0BFA8BC64B"
+				type: "kill"
+				value: 50L
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["155C6C8E98A03DDE"]
+			id: "5C693C66975D009A"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "5F324EFADABC5DCA"
+				type: "kill"
+				value: 100L
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			id: "550965E5CECC8C04"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "297C4D6CEFDDE0F8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["550965E5CECC8C04"]
+			id: "4DE3C5DB144C59C0"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "50A1DC364B239C96"
+				type: "kill"
+				value: 10L
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4DE3C5DB144C59C0"]
+			id: "1BA40099A888E54C"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "4EE0B31FFF13A0D1"
+				type: "kill"
+				value: 50L
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1BA40099A888E54C"]
+			id: "5BDF738724B5E6E1"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "2A297E9F9D4667EA"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "05BC8BD88CE9F60D"
+			tasks: [{
+				entity: "minecraft:witch"
+				id: "5223A14338A0C6C4"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["05BC8BD88CE9F60D"]
+			id: "028331353F88B09C"
+			tasks: [{
+				entity: "minecraft:witch"
+				id: "4F8D9AF5AD75400F"
+				type: "kill"
+				value: 10L
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["028331353F88B09C"]
+			id: "54BB961A10CEA691"
+			tasks: [{
+				entity: "minecraft:witch"
+				id: "05FBF86F9438F613"
+				type: "kill"
+				value: 50L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["54BB961A10CEA691"]
+			id: "74940385755104E3"
+			tasks: [{
+				entity: "minecraft:witch"
+				id: "0FEC0C71D9CEC8D5"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			id: "34708F95EA427C15"
+			tasks: [{
+				entity: "minecraft:bat"
+				id: "3B5E627F799E2C84"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			id: "5452D3637BA62A53"
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "6AB5866109532DEC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			id: "37874CFE2913BE99"
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "60915FD3CEA00111"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			id: "50710E05832A7FF8"
+			tasks: [{
+				entity: "minecraft:pig"
+				id: "6B8E0197F147E7C4"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			id: "3534AD8B3B71F0E1"
+			tasks: [{
+				entity: "minecraft:sheep"
+				id: "14336DD86F77D87B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "78837D558400079E"
+			tasks: [
+				{
+					entity: "minecraft:zombie_horse"
+					id: "016F913A6C6F1A7E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:mooshroom"
+					id: "316358AD2B93A32F"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			id: "6BBF893FCB37D215"
+			tasks: [{
+				entity: "minecraft:squid"
+				id: "5E68F0A36B865CED"
+				type: "kill"
+				value: 1L
+			}]
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			id: "23D47BEEB251E31B"
+			tasks: [{
+				entity: "minecraft:rabbit"
+				id: "475A001F29046941"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			id: "1F10580DDEF60663"
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				id: "1098D91240A96AD7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -10.0d
+			y: -3.5d
+		}
+		{
+			id: "3B63E51162713404"
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "14B412CCC41896B3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "5056029DADE53DC4"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "3DFE9A1B39A43507"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "123CE2DFEEDC4F5B"
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "576B7E54F5E120DE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "1BE1AE20A6AC1460"
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "1CDD6668880E757F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			id: "433EB9E015E767DC"
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "336EDAB39B5E801D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			id: "2664089151A7D04A"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "0748D0FA87B4A027"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			id: "5F7774F6F897E36C"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "71E36FF6D044BDEC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			id: "38799540BFE2B600"
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "03BCB5F028DEA366"
+				type: "kill"
+				value: 1L
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "42F37A4CD61B3AB5"
+			size: 2.0d
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "144A058EEA724DFC"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["433EB9E015E767DC"]
+			id: "5959818968A5F095"
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "3639D86B292464EF"
+				type: "kill"
+				value: 10L
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5959818968A5F095"]
+			id: "50426695814E1109"
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "246474AE7EC4D2DC"
+				type: "kill"
+				value: 50L
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["50426695814E1109"]
+			id: "1843CD7003289F8B"
+			tasks: [{
+				entity: "minecraft:slime"
+				id: "3D9A5E5CFA9C5C8E"
+				type: "kill"
+				value: 100L
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["23D47BEEB251E31B"]
+			id: "0D767E9D1396301F"
+			tasks: [{
+				entity: "minecraft:rabbit"
+				id: "0A16041E8E9ABB8F"
+				type: "kill"
+				value: 10L
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0D767E9D1396301F"]
+			id: "351C4069C40E444B"
+			tasks: [{
+				entity: "minecraft:rabbit"
+				id: "224332AAD36A5769"
+				type: "kill"
+				value: 50L
+			}]
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["351C4069C40E444B"]
+			id: "50DC6048D3BA8271"
+			tasks: [{
+				entity: "minecraft:rabbit"
+				id: "16756C838990B0FA"
+				type: "kill"
+				value: 100L
+			}]
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["37874CFE2913BE99"]
+			id: "60C3D697477AB4F1"
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "22D5D08C1EDCCB1E"
+				type: "kill"
+				value: 10L
+			}]
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["60C3D697477AB4F1"]
+			id: "152783771C80405E"
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "184BB060A5A883EA"
+				type: "kill"
+				value: 50L
+			}]
+			x: -5.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["152783771C80405E"]
+			icon: {
+				id: "minecraft:cow_spawn_egg"
+			}
+			id: "4C444FB98D1D0741"
+			tasks: [{
+				entity: "minecraft:cow"
+				id: "461C91B42DBB91E3"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5452D3637BA62A53"]
+			id: "4D908D3866C3CF34"
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "1A9ED2EFF011C314"
+				type: "kill"
+				value: 10L
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4D908D3866C3CF34"]
+			id: "11E6DD77992D130B"
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "1CD12EFF000027B5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["11E6DD77992D130B"]
+			id: "3E2A168A3E720C11"
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "12BEAA4CE9FC7A13"
+				type: "kill"
+				value: 100L
+			}]
+			x: -6.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["34708F95EA427C15"]
+			id: "67655857E3FD7A6B"
+			tasks: [{
+				entity: "minecraft:bat"
+				id: "67DDE0FFBA02BD81"
+				type: "kill"
+				value: 10L
+			}]
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["67655857E3FD7A6B"]
+			id: "132BE53289277475"
+			tasks: [{
+				entity: "minecraft:bat"
+				id: "3C417922AFF07DA9"
+				type: "kill"
+				value: 50L
+			}]
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["132BE53289277475"]
+			id: "7F00FE8D611AD18F"
+			tasks: [{
+				entity: "minecraft:bat"
+				id: "72994E653719F80C"
+				type: "kill"
+				value: 100L
+			}]
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["50710E05832A7FF8"]
+			id: "0ED5360E85C7C919"
+			tasks: [{
+				entity: "minecraft:pig"
+				id: "463E821DEE163C4E"
+				type: "kill"
+				value: 10L
+			}]
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0ED5360E85C7C919"]
+			id: "3FA5071D27B6FE85"
+			tasks: [{
+				entity: "minecraft:pig"
+				id: "6AB3BA7018499CD5"
+				type: "kill"
+				value: 50L
+			}]
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3FA5071D27B6FE85"]
+			id: "2574F1C787D87E18"
+			tasks: [{
+				entity: "minecraft:pig"
+				id: "5F04846E96C4C0AC"
+				type: "kill"
+				value: 100L
+			}]
+			x: -8.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3534AD8B3B71F0E1"]
+			id: "233D0F0B7B12000E"
+			tasks: [{
+				entity: "minecraft:sheep"
+				id: "2E7633A336488595"
+				type: "kill"
+				value: 10L
+			}]
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["233D0F0B7B12000E"]
+			id: "05280A4D024CBAE3"
+			tasks: [{
+				entity: "minecraft:sheep"
+				id: "738CB7B485227BDF"
+				type: "kill"
+				value: 50L
+			}]
+			x: -9.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["05280A4D024CBAE3"]
+			id: "3F31B5B8DFD552E5"
+			tasks: [{
+				entity: "minecraft:sheep"
+				id: "28409B0566770BF0"
+				type: "kill"
+				value: 100L
+			}]
+			x: -9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["6BBF893FCB37D215"]
+			id: "7BB3BE465580B6BE"
+			tasks: [{
+				entity: "minecraft:squid"
+				id: "7C4A3B6BE1E01140"
+				type: "kill"
+				value: 10L
+			}]
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["7BB3BE465580B6BE"]
+			id: "2611F50075369610"
+			tasks: [{
+				entity: "minecraft:squid"
+				id: "5FCAF7E165BA135B"
+				type: "kill"
+				value: 50L
+			}]
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2611F50075369610"]
+			id: "2767516F93623C02"
+			tasks: [{
+				entity: "minecraft:squid"
+				id: "4FFE1D8E52DF7650"
+				type: "kill"
+				value: 100L
+			}]
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1F10580DDEF60663"]
+			id: "7CD41705A2915825"
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				id: "60A14B5798DABC1B"
+				type: "kill"
+				value: 10L
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7CD41705A2915825"]
+			id: "2F15C7BCD4ADD7CC"
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				id: "07E7BCF2FAC387CB"
+				type: "kill"
+				value: 50L
+			}]
+			x: -10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2F15C7BCD4ADD7CC"]
+			id: "7B842BADF7E61C1B"
+			tasks: [{
+				entity: "minecraft:zombie_villager"
+				id: "0582D1752C9544ED"
+				type: "kill"
+				value: 100L
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3B63E51162713404"]
+			id: "74342F6BAAC0577F"
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "19DDC2E07F7FF2E0"
+				type: "kill"
+				value: 10L
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["74342F6BAAC0577F"]
+			id: "091D4D7BF58213B0"
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "790635FD929F39A2"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["091D4D7BF58213B0"]
+			id: "49EDECFAC7AAB964"
+			tasks: [{
+				entity: "minecraft:zombified_piglin"
+				id: "6F8B901D9B2B1FF2"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5056029DADE53DC4"]
+			id: "49B710431B8A9239"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "1D6DE8B9756B924D"
+				type: "kill"
+				value: 10L
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["49B710431B8A9239"]
+			id: "59925A8FC67473D9"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "7EE8D68672E11AE8"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["59925A8FC67473D9"]
+			id: "117D180929651108"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "4F49F924194D320F"
+				type: "kill"
+				value: 100L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["123CE2DFEEDC4F5B"]
+			id: "592FA170D6FB7D97"
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "7F17CBBAB572F765"
+				type: "kill"
+				value: 10L
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["592FA170D6FB7D97"]
+			id: "22535E5476B6CEF8"
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "40722E00E7D3436E"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["22535E5476B6CEF8"]
+			id: "356C4090ACA96F34"
+			tasks: [{
+				entity: "minecraft:ghast"
+				id: "6A5DFD2BA4CE6C86"
+				type: "kill"
+				value: 100L
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1BE1AE20A6AC1460"]
+			id: "70D9FB4F6FF56EBA"
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "2951E4C1DF139B8D"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["70D9FB4F6FF56EBA"]
+			id: "7175713690442782"
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "105D4EFE85F30C17"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7175713690442782"]
+			id: "635329BA47E7E2AF"
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				id: "52CF451F81023445"
+				type: "kill"
+				value: 100L
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2664089151A7D04A"]
+			id: "345290D965E21756"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "1F9950A8654FEFCD"
+				type: "kill"
+				value: 10L
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["345290D965E21756"]
+			id: "01B8E62D97D70894"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "6CE3348D2B474D08"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01B8E62D97D70894"]
+			id: "7C08DE48FDDDEFFA"
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "7405262AC3E36742"
+				type: "kill"
+				value: 100L
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5F7774F6F897E36C"]
+			id: "4636FDE5A00CDA50"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "3FD7624D67B15D4E"
+				type: "kill"
+				value: 10L
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4636FDE5A00CDA50"]
+			id: "1A70A821651D564D"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "4BAFF4EEAA35E715"
+				type: "kill"
+				value: 50L
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1A70A821651D564D"]
+			id: "1853BE3926BFB85D"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "2A757FFD469CAE2A"
+				type: "kill"
+				value: 100L
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38799540BFE2B600"]
+			id: "506811EF45947A3E"
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "3B4A4B0DFA6D99E3"
+				type: "kill"
+				value: 10L
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["506811EF45947A3E"]
+			id: "260CFC2E430B0CA0"
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "6216BE1E6A474E68"
+				type: "kill"
+				value: 25L
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["260CFC2E430B0CA0"]
+			id: "52A7017C60B7F234"
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "3E7ED5B6D6D298A2"
+				type: "kill"
+				value: 50L
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+	]
+}

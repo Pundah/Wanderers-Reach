@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "relics"
+	group: "341EDA239F99637A"
+	id: "2D7D237E31B27B85"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}
