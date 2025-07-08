@@ -13,9 +13,11 @@ NEOFORGE - 21.1.187
 (*) Moved Menu logo to center.
 (*) Minecolonies - Workers will work in the rain.
 (*) Dragon head will spawn on enderdragon death.
-(*) Pam's Harvestcraft - Grass drops seeds
+(*) Pam's Harvestcraft - Grass drops seeds.
 (*) Twilight Forest - Made multiplayer bosses harder.
-
+(*) ProjectE - Hid the EMC value as a tooltip on items and blocks.
+(*) AutoTool - Disabled by default.
+ 
 ## **Additions**
 
 (+) Waystones
