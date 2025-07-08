@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Wanderer's Reach",
-  "version": "V:0.02",
+  "version": "V:0.02.01",
   "author": "",
   "files": [
     {
@@ -86,13 +86,13 @@
       "required": true
     },
     {
-      "projectID": 377897,
-      "fileID": 6710632,
+      "projectID": 419699,
+      "fileID": 5786327,
       "required": true
     },
     {
-      "projectID": 419699,
-      "fileID": 5786327,
+      "projectID": 377897,
+      "fileID": 6710632,
       "required": true
     },
     {
@@ -111,13 +111,13 @@
       "required": true
     },
     {
-      "projectID": 282947,
-      "fileID": 6300819,
+      "projectID": 242818,
+      "fileID": 6583751,
       "required": true
     },
     {
-      "projectID": 242818,
-      "fileID": 6583751,
+      "projectID": 282947,
+      "fileID": 6300819,
       "required": true
     },
     {
@@ -171,13 +171,13 @@
       "required": true
     },
     {
-      "projectID": 324717,
-      "fileID": 6738687,
+      "projectID": 248787,
+      "fileID": 6616291,
       "required": true
     },
     {
-      "projectID": 248787,
-      "fileID": 6616291,
+      "projectID": 324717,
+      "fileID": 6738687,
       "required": true
     },
     {
@@ -211,13 +211,13 @@
       "required": true
     },
     {
-      "projectID": 367734,
-      "fileID": 5704328,
+      "projectID": 342584,
+      "fileID": 6429221,
       "required": true
     },
     {
-      "projectID": 342584,
-      "fileID": 6429221,
+      "projectID": 367734,
+      "fileID": 5704328,
       "required": true
     },
     {
@@ -271,13 +271,13 @@
       "required": true
     },
     {
-      "projectID": 412082,
-      "fileID": 6741848,
+      "projectID": 283644,
+      "fileID": 6446766,
       "required": true
     },
     {
-      "projectID": 283644,
-      "fileID": 6446766,
+      "projectID": 412082,
+      "fileID": 6741848,
       "required": true
     },
     {
@@ -421,13 +421,13 @@
       "required": true
     },
     {
-      "projectID": 282001,
-      "fileID": 5714512,
+      "projectID": 495476,
+      "fileID": 6494827,
       "required": true
     },
     {
-      "projectID": 495476,
-      "fileID": 6494827,
+      "projectID": 282001,
+      "fileID": 5714512,
       "required": true
     },
     {
@@ -541,16 +541,6 @@
       "required": true
     },
     {
-      "projectID": 892005,
-      "fileID": 6628645,
-      "required": true
-    },
-    {
-      "projectID": 394140,
-      "fileID": 6316527,
-      "required": true
-    },
-    {
       "projectID": 907026,
       "fileID": 6174070,
       "required": true
@@ -558,6 +548,16 @@
     {
       "projectID": 303278,
       "fileID": 6646627,
+      "required": true
+    },
+    {
+      "projectID": 892005,
+      "fileID": 6628645,
+      "required": true
+    },
+    {
+      "projectID": 394140,
+      "fileID": 6316527,
       "required": true
     },
     {
@@ -586,11 +586,6 @@
       "required": true
     },
     {
-      "projectID": 522205,
-      "fileID": 6407878,
-      "required": true
-    },
-    {
       "projectID": 326652,
       "fileID": 6078150,
       "required": true
@@ -601,23 +596,18 @@
       "required": true
     },
     {
-      "projectID": 1010827,
-      "fileID": 6552770,
-      "required": true
-    },
-    {
       "projectID": 638508,
       "fileID": 5491721,
       "required": true
     },
     {
-      "projectID": 663477,
-      "fileID": 6311236,
+      "projectID": 1010827,
+      "fileID": 6552770,
       "required": true
     },
     {
-      "projectID": 358191,
-      "fileID": 5516108,
+      "projectID": 663477,
+      "fileID": 6311236,
       "required": true
     },
     {
@@ -628,6 +618,11 @@
     {
       "projectID": 1232977,
       "fileID": 6466764,
+      "required": true
+    },
+    {
+      "projectID": 358191,
+      "fileID": 5516108,
       "required": true
     },
     {
@@ -646,13 +641,13 @@
       "required": true
     },
     {
-      "projectID": 1040563,
-      "fileID": 6039613,
+      "projectID": 361276,
+      "fileID": 6354238,
       "required": true
     },
     {
-      "projectID": 361276,
-      "fileID": 6354238,
+      "projectID": 1040563,
+      "fileID": 6039613,
       "required": true
     },
     {
@@ -746,13 +741,13 @@
       "required": true
     },
     {
-      "projectID": 256717,
-      "fileID": 5623731,
+      "projectID": 827507,
+      "fileID": 6605667,
       "required": true
     },
     {
-      "projectID": 827507,
-      "fileID": 6605667,
+      "projectID": 256717,
+      "fileID": 5623731,
       "required": true
     },
     {
@@ -771,13 +766,13 @@
       "required": true
     },
     {
-      "projectID": 250832,
-      "fileID": 6199696,
+      "projectID": 298744,
+      "fileID": 6710724,
       "required": true
     },
     {
-      "projectID": 298744,
-      "fileID": 6710724,
+      "projectID": 250832,
+      "fileID": 6199696,
       "required": true
     },
     {
@@ -836,13 +831,13 @@
       "required": true
     },
     {
-      "projectID": 1036270,
-      "fileID": 6676057,
+      "projectID": 345854,
+      "fileID": 6184882,
       "required": true
     },
     {
-      "projectID": 345854,
-      "fileID": 6184882,
+      "projectID": 1036270,
+      "fileID": 6676057,
       "required": true
     },
     {
@@ -876,13 +871,13 @@
       "required": true
     },
     {
-      "projectID": 229060,
-      "fileID": 6000439,
+      "projectID": 358700,
+      "fileID": 5746086,
       "required": true
     },
     {
-      "projectID": 358700,
-      "fileID": 5746086,
+      "projectID": 229060,
+      "fileID": 6000439,
       "required": true
     },
     {
@@ -931,6 +926,11 @@
       "required": true
     },
     {
+      "projectID": 976858,
+      "fileID": 6407807,
+      "required": true
+    },
+    {
       "projectID": 929559,
       "fileID": 6650737,
       "required": true
@@ -938,11 +938,6 @@
     {
       "projectID": 561625,
       "fileID": 6051279,
-      "required": true
-    },
-    {
-      "projectID": 976858,
-      "fileID": 6407807,
       "required": true
     },
     {
