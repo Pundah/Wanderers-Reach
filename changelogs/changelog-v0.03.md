@@ -8,7 +8,7 @@ NEOFORGE - 21.1.188
 
 ## **-=Modification Notes=-**
 
-(*) 
+(*) Updated KubeJS to include a starting kit.
  
 ## **Additions**
 
