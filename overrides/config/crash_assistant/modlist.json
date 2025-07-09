@@ -1,8 +1,8 @@
 {
-  "neoforge-21.1.187 (modloader)": {
-    "jarName": "neoforge-21.1.187 (modloader)",
+  "neoforge-21.1.188 (modloader)": {
+    "jarName": "neoforge-21.1.188 (modloader)",
     "modId": "neoforge",
-    "version": "neoforge-21.1.187"
+    "version": "neoforge-21.1.188"
   },
   "[1.21.1] SecurityCraft v1.10.jar": {
     "jarName": "[1.21.1] SecurityCraft v1.10.jar",
@@ -129,11 +129,6 @@
     "modId": "artifacts",
     "version": "13.0.6"
   },
-  "autotools-1.21.1-neoforge-3.1.0.jar": {
-    "jarName": "autotools-1.21.1-neoforge-3.1.0.jar",
-    "modId": "autotools",
-    "version": "3.1"
-  },
   "balm-neoforge-1.21.1-21.0.46.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.46.jar",
     "modId": "balm",
@@ -168,6 +163,11 @@
     "jarName": "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
     "modId": "bridgingmod",
     "version": "2.6.2+1.21.1"
+  },
+  "buildinggadgets2-1.3.8.jar": {
+    "jarName": "buildinggadgets2-1.3.8.jar",
+    "modId": "buildinggadgets2",
+    "version": "1.3.8"
   },
   "bwncr-neoforge-1.21.1-3.20.3.jar": {
     "jarName": "bwncr-neoforge-1.21.1-3.20.3.jar",
@@ -444,10 +444,10 @@
     "modId": "ftbultimine",
     "version": "2101.1.4"
   },
-  "ftb-xmod-compat-neoforge-21.1.3.jar": {
-    "jarName": "ftb-xmod-compat-neoforge-21.1.3.jar",
+  "ftb-xmod-compat-neoforge-21.1.4.jar": {
+    "jarName": "ftb-xmod-compat-neoforge-21.1.4.jar",
     "modId": "ftbxmodcompat",
-    "version": "21.1.3"
+    "version": "21.1.4"
   },
   "fuelgoeshere-1.21.1-1.2.0.jar": {
     "jarName": "fuelgoeshere-1.21.1-1.2.0.jar",
@@ -567,10 +567,10 @@
     "modId": "letmedespawn",
     "version": "1.5.0"
   },
-  "lithostitched-neoforge-1.21.1-1.4.10.jar": {
-    "jarName": "lithostitched-neoforge-1.21.1-1.4.10.jar",
+  "lithostitched-neoforge-1.21.1-1.4.11.jar": {
+    "jarName": "lithostitched-neoforge-1.21.1-1.4.11.jar",
     "modId": "lithostitched",
-    "version": "1.4.8"
+    "version": "1.4.11"
   },
   "lootr-neoforge-1.21-1.10.35.91.jar": {
     "jarName": "lootr-neoforge-1.21-1.10.35.91.jar",
@@ -762,10 +762,10 @@
     "modId": "prism",
     "version": "1.0.11"
   },
-  "productivebees-1.21.1-13.7.4.jar": {
-    "jarName": "productivebees-1.21.1-13.7.4.jar",
+  "productivebees-1.21.1-13.7.5.jar": {
+    "jarName": "productivebees-1.21.1-13.7.5.jar",
     "modId": "productivebees",
-    "version": "1.21.1-13.7.4"
+    "version": "1.21.1-13.7.5"
   },
   "ProjectE-1.21.1-PE1.1.0.jar": {
     "jarName": "ProjectE-1.21.1-PE1.1.0.jar",
@@ -841,6 +841,11 @@
     "jarName": "simplylight-1.5.3+1.21.1-b4.jar",
     "modId": "simplylight",
     "version": "1.5.3"
+  },
+  "sodium-neoforge-0.6.13+mc1.21.1.jar": {
+    "jarName": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "modId": "sodium",
+    "version": "0.6.13+mc1.21.1"
   },
   "solcarrot-1.21.1-1.16.5.jar": {
     "jarName": "solcarrot-1.21.1-1.16.5.jar",

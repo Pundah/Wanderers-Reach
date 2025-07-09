@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.187",
+        "id": "neoforge-21.1.188",
         "primary": true
       }
     ],
@@ -11,8 +11,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Wanderer's Reach",
-  "version": "V:0.02.01",
+  "name": "Wanderer's Reach Dev",
+  "version": "",
   "author": "",
   "files": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "projectID": 377897,
-      "fileID": 6710632,
+      "fileID": 6746400,
       "required": true
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "projectID": 889915,
-      "fileID": 6259292,
+      "fileID": 6743720,
       "required": true
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "projectID": 936015,
-      "fileID": 6703598,
+      "fileID": 6743507,
       "required": true
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 6741802,
+      "fileID": 6744349,
       "required": true
     },
     {
@@ -751,6 +751,11 @@
       "required": true
     },
     {
+      "projectID": 298187,
+      "fileID": 5968587,
+      "required": true
+    },
+    {
       "projectID": 386134,
       "fileID": 6740344,
       "required": true
@@ -878,6 +883,11 @@
     {
       "projectID": 229060,
       "fileID": 6000439,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 6382651,
       "required": true
     },
     {
