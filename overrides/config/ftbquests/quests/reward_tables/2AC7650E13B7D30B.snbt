@@ -113,6 +113,167 @@
 		}
 		{ id: "4E9A22EBE4CF81ED", item: { count: 1, id: "mekanism:basic_energy_cube" } }
 		{ id: "0AA10053F23CC0C9", item: { count: 1, id: "mekanismtools:bronze_paxel" } }
+		{ id: "5E457F8DFA043643", item: { count: 1, id: "geneticsresequenced:syringe" } }
+		{ id: "2A864139A62BF109", item: { count: 1, id: "ironfurnaces:iron_furnace" } }
+		{ id: "22465E602050D946", item: { count: 1, id: "minecraft:cat_spawn_egg" } }
+		{ id: "5307FBBA7319847F", item: { count: 1, id: "minecraft:wolf_spawn_egg" } }
+		{
+			count: 16
+			id: "3C7804853A11A808"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_essence"
+			}
+		}
+		{
+			count: 4
+			id: "6AE04B3DE98C8E96"
+			item: {
+				count: 1
+				id: "oreberriesreplanted:iron_oreberry_bush"
+			}
+		}
+		{ id: "7F3A78F34ADD5467", item: { count: 1, id: "oreberriesreplanted:essence_berry_bush" } }
+		{
+			count: 8
+			id: "560FBBBE4E3F2168"
+			item: {
+				count: 1
+				id: "bigreactors:raw_yellorium"
+			}
+		}
+		{ id: "2CF8A42AD858C209", item: { count: 1, id: "bhc:red_heart" } }
+		{
+			count: 16
+			id: "4EF24F20A7F19279"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+		}
+		{
+			count: 16
+			id: "11A339F48A2A3BEF"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 16
+			id: "794CE826E4831EF7"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 32
+			id: "45CAB68D709DF3BE"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 4
+			id: "15BAF9AD0482D6ED"
+			item: {
+				count: 1
+				id: "minecraft:magma_cream"
+			}
+		}
+		{
+			count: 16
+			id: "49E8198027BBF9A4"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 8
+			id: "5329AA5CB74402BC"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold"
+			}
+		}
+		{
+			count: 32
+			id: "59CAC571DCA900F5"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 16
+			id: "20FAD9FA6F20BECD"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+		}
+		{
+			count: 8
+			id: "498834F9426D980B"
+			item: {
+				count: 1
+				id: "minecraft:sugar_cane"
+			}
+		}
+		{
+			count: 8
+			id: "3A9174A2E05DEFC6"
+			item: {
+				count: 1
+				id: "minecraft:egg"
+			}
+		}
+		{
+			count: 16
+			id: "0511BDC8833A3BD1"
+			item: {
+				count: 1
+				id: "minecraft:cooked_rabbit"
+			}
+		}
+		{ id: "3A5A450084CF6885", item: { count: 1, id: "minecraft:cake" } }
+		{
+			count: 4
+			id: "3355BF1187671DB9"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{ id: "7FB075A4F7CB0976", item: { count: 1, id: "minecraft:slime_block" } }
+		{
+			count: 4
+			id: "0648B02515A67B4B"
+			item: {
+				count: 1
+				id: "minecraft:cocoa_beans"
+			}
+		}
+		{
+			count: 8
+			id: "06533767FDE901F6"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+		}
+		{
+			count: 16
+			id: "0021A7A32877BDC8"
+			item: {
+				count: 1
+				id: "supplementaries:flax_seeds"
+			}
+		}
+		{ id: "3CBAFA35F37C2EAB", item: { count: 1, id: "torchmaster:megatorch" } }
 	]
 	use_title: true
 }

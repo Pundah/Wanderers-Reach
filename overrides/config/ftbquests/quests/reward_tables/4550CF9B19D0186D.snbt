@@ -1,0 +1,14 @@
+{
+	id: "4550CF9B19D0186D"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "761B21E72359858E", item: { components: { "cyclopscore:fluid_content": { amount: 1000, id: "evilcraft:blood" } }, count: 1, id: "evilcraft:creative_blood_drop" } }
+		{ id: "5A06FA9E1BD56379", item: { count: 1, id: "powah:energy_cell_creative" } }
+		{ id: "61E0ED21BED5D521", item: { count: 1, id: "mekanism:creative_fluid_tank" } }
+		{ id: "63A4DBE9A0AE5F8E", item: { count: 1, id: "mysticalagradditions:creative_essence" } }
+		{ id: "02A47E8378BEFE74", item: { count: 1, id: "iceandfire:creative_dragon_meal" } }
+		{ id: "6D538BA306FA10A9", item: { components: { "mekanism:fluids": { fluid_tanks: [{ amount: 2147483647, id: "minecraft:lava" }] } }, count: 1, id: "mekanism:creative_fluid_tank" } }
+		{ id: "46CCBE1207414954", item: { components: { "mekanism:fluids": { fluid_tanks: [{ amount: 2147483647, id: "securitycraft:fake_water" }] } }, count: 1, id: "mekanism:creative_fluid_tank" } }
+	]
+}

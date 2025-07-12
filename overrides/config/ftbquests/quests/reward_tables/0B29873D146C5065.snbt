@@ -2,6 +2,122 @@
 	id: "0B29873D146C5065"
 	loot_size: 1
 	order_index: 1
-	rewards: [ ]
+	rewards: [
+		{
+			count: 4
+			id: "7EC023D0F8C5272A"
+			item: {
+				count: 1
+				id: "minecraft:ender_eye"
+			}
+		}
+		{ id: "6EABE7623AB483DD", item: { count: 1, id: "minecraft:diamond_pickaxe" } }
+		{ id: "408AC5F1C9928912", item: { count: 1, id: "minecraft:diamond_axe" } }
+		{
+			count: 16
+			id: "79A508475F493D1B"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+		}
+		{
+			count: 4
+			id: "1AE160FE0D7F9C2D"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+		}
+		{
+			count: 16
+			id: "63DA54A3D36A0FC8"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+		}
+		{
+			count: 32
+			id: "2453DA5ACA838159"
+			item: {
+				count: 1
+				id: "oreberriesreplanted:essence_berry_bush"
+			}
+		}
+		{ id: "26B28B1DF89782CD", item: { count: 1, id: "waystones:waystone" } }
+		{ id: "639CA1AFAC2B6392", item: { count: 1, id: "wirelesschargers:basic_wireless_player_charger" } }
+		{ id: "5C68CC9E2A43ECA2", item: { count: 1, id: "wirelesschargers:basic_wireless_block_charger" } }
+		{
+			count: 32
+			id: "54FFB4A21C07B376"
+			item: {
+				count: 1
+				id: "minecraft:redstone_block"
+			}
+		}
+		{ id: "15B96B42D0626D0D", item: { count: 1, id: "minecraft:emerald_block" } }
+		{
+			count: 16
+			id: "64A8E48B7B0728F4"
+			item: {
+				count: 1
+				id: "minecraft:gold_block"
+			}
+		}
+		{
+			count: 32
+			id: "10A6EA24A3D3E3E7"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+		}
+		{
+			count: 4
+			id: "362A638714CFF108"
+			item: {
+				count: 1
+				id: "mob_grinding_utils:tank"
+			}
+		}
+		{ id: "4F83D4D739C991FF", item: { count: 1, id: "bhc:yellow_heart" } }
+		{ id: "7D8ED98ABC61DEE4", item: { count: 1, id: "ironfurnaces:gold_furnace" } }
+		{
+			count: 4
+			id: "4DABD27AF79B77BE"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prudentium_block"
+			}
+		}
+		{
+			count: 4
+			id: "1FC2F533C7B19E05"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prudentium_growth_accelerator"
+			}
+		}
+		{ id: "15EC718639BCE4F6", item: { count: 1, id: "mekanism:advanced_energy_cube" } }
+		{
+			count: 32
+			id: "05AAAC2CBF2416AE"
+			item: {
+				count: 1
+				id: "mekanism:elite_universal_cable"
+			}
+		}
+		{ id: "7E8D18202360E55E", item: { count: 1, id: "mekanismgenerators:advanced_solar_generator" } }
+		{ id: "7FFBEABC5879E159", item: { count: 1, id: "mekanismgenerators:wind_generator" } }
+		{
+			count: 4
+			id: "404CEFC5FC342FF3"
+			item: {
+				count: 1
+				id: "mekanismgenerators:heat_generator"
+			}
+		}
+	]
 	use_title: true
 }
