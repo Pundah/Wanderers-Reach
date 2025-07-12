@@ -48,7 +48,11 @@
 		"Please join our Discord for questions or support!"
 	]
 	quest.1CA3B8913DECD7A7.title: "&cWelcome to Wonder's Refuge!"
-	quest.42F37A4CD61B3AB5.quest_desc: ["Here you can find the rewards for killing mobs."]
+	quest.42F37A4CD61B3AB5.quest_desc: [
+		"Here you can find the rewards for killing mobs."
+		""
+		"The more you kill, the higher the reward!"
+	]
 	quest.42F37A4CD61B3AB5.title: "Kill Log"
 	quest.4B47C37F212E2F49.quest_desc: ["In &cWanderer's Reach&r, quests are optional. Questlines outside of the &6Main Questline&r are meant to serve as mod guides."]
 	quest.63BA5E5EE373015D.quest_desc: [
@@ -63,21 +67,36 @@
 		""
 		"With the chunk map open a blue i icon will be shown in the upper left corner of the screen. Clicking on this icon will open the chunk claiming and loading guide."
 	]
-	quest.76BEC9D04BEAF892.quest_desc: ["There are a few useful commands you can use like &6/home&r or &6/rtp&r, but these come with a &430-minute&r cooldown."]
-	quest.78837D558400079E.title: "Special Kills"
-	reward_table.0B29873D146C5065.title: "&9Rare"
-	reward_table.2AC7650E13B7D30B.title: "&fCommon"
-	reward_table.3A4E509951BE6675.title: "&6Mythic"
-	reward_table.6B2ABDB04BCC9DAF.title: "&5Epic"
-	reward_table.6D8C39B83B0E13FC.title: "&eLegendary"
-	reward_table.75E806BDF2613172.title: "&aUncommon"
-	reward_table.7A8013444757771F.title: "&cRelic"
-	reward_table.7D47C4E018900023.title: "&dEternal"
+	quest.76BEC9D04BEAF892.quest_desc: [
+		"There are a few useful commands you can use like &6/home&r or &6/rtp&r, but these come with a &430-minute&r cooldown."
+		""
+		"Other useful commands:"
+		""
+		"&6/tpa [username] &r- Requests to teleport to the player."
+		""
+		"&6/tpahere [username] &r- Requests the player to teleport to you."
+		""
+		"&6/teammsg &r- Sends a private message to your online team members."
+	]
+	reward_table.0B29873D146C5065.title: "02 - &9Rare"
+	reward_table.2AC7650E13B7D30B.title: "01 - &fCommon"
+	reward_table.3A4E509951BE6675.title: "05 - &6Mythic"
+	reward_table.4550CF9B19D0186D.title: "06 - &aCreative"
+	reward_table.6B2ABDB04BCC9DAF.title: "03 - &5Epic"
+	reward_table.6D8C39B83B0E13FC.title: "04 - &eLegendary"
+	task.018FF2C6A4F5A712.title: "End"
 	task.0915372F9F1FA375.title: "Useful Commands"
+	task.1B3003FE3FBE6BEC.title: "boss 1"
+	task.203E9C8545C709EC.title: "boss 2"
 	task.206BE47968B8F5B4.title: "Clamimaing Chunks"
+	task.3AE538679864E678.title: "boss 3"
 	task.3DF2FE7E2F6914DE.title: "Claiming Chunks"
+	task.3F19BCB59863611E.title: "Overworld"
+	task.5846A2943429A1E1.title: "boss 4"
 	task.589AD4AC73C9A546.title: "Tips and Tricks"
 	task.5AC1F80C73DEAFE8.title: "Hitlist"
+	task.63055AF3CEFFCDF3.title: "Bosses"
+	task.699777A85D28B41C.title: "Nether"
 	task.70BD9C50EC3C662A.title: "FTB Teams"
 	task.763B15ECE8F195B1.title: "Quests"
 }
