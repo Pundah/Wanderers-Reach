@@ -22,6 +22,13 @@ NEOFORGE - 21.1.188
 (^) FTB XMod Compat
 (^) Lithostiched
 (^) Productive Bees
+(^) FTB Ultimine (Forge)
+(^) IceAndFire Community Edition
+(^) Just Enough Items (JEI)
+(^) PackMenu
+(^) Placebo
+(^) Simple Backups
+(^) Supplementaries
 
 ## **REMOVALS**
 
