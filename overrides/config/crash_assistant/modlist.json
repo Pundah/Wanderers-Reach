@@ -727,6 +727,11 @@
     "modId": "pamhc2trees",
     "version": "1.0.3"
   },
+  "Patchouli-1.21-88-NEOFORGE.jar": {
+    "jarName": "Patchouli-1.21-88-NEOFORGE.jar",
+    "modId": "patchouli",
+    "version": "1.21-88-NEOFORGE"
+  },
   "pipez-neoforge-1.21.1-1.2.19.jar": {
     "jarName": "pipez-neoforge-1.21.1-1.2.19.jar",
     "modId": "pipez",
